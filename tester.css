@@ -11,14 +11,14 @@
 /* Mobile view */
 @media (max-width: 991px) {
   body {
-    padding-top: 60px; /* Add padding to the top of the page */
+    padding-top: 65px; /* Add padding to the top of the page */
   }
   #portfolio {
     position: fixed;
     top: 0;
     width: 100%;
     transition: top 0.3s;
-    background: #f8f9fa;
+    background: #f9f3ee;
   }
 .w3-sidebar {
  top: 0px;
