@@ -55,17 +55,17 @@
   </header>
 
 <script>
-  // Hide header on scroll down, show on scroll up
-  var prevScrollpos = window.pageYOffset;
-  window.onscroll = function() {
-    var currentScrollPos = window.pageYOffset;
-    if (prevScrollpos > currentScrollPos) {
-      document.getElementById("portfolio").style.top = "0";
-    } else {
-      document.getElementById("portfolio").style.top = "-50px";
-    }
-    prevScrollpos = currentScrollPos;
+// Hide header on scroll down, show on scroll up
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+  var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementById("portfolio").style.top = "0";
+  } else {
+    document.getElementById("portfolio").style.top = "-100px"; /* Increase this value to completely hide the header */
   }
+  prevScrollpos = currentScrollPos;
+}
 </script>
 
 
