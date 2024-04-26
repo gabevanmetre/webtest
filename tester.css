@@ -19,4 +19,6 @@
     width: 100%;
     transition: top 0.3s;
   }
+.sidebar {
+ top: 60px;
 }
