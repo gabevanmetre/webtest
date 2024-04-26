@@ -18,7 +18,8 @@
     top: 0;
     width: 100%;
     transition: top 0.3s;
+    background: #f8f9fa;
   }
-.sidebar {
+.w3-sidebar {
  top: 0px;
 }
