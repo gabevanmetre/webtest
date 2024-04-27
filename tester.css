@@ -17,6 +17,7 @@
     width: 100%;
     transition: top 0.3s;
     background: #f9f3ee;
+    padding: 13px 0 0 0px;
     z-index: 1; /* Set a high z-index value */
   }
   .w3-sidebar {
