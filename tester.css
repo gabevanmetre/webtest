@@ -23,7 +23,9 @@
   }
   .w3-sidebar {
     top: 0px;
+    z-index: 0; 
   }
   .w3-sidebar.w3-show {
-  z-index: 20; /* Set a higher z-index value than the header */
+  z-index: 20;
+  }
 }
