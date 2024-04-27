@@ -19,12 +19,12 @@
     width: 100%;
     transition: top 0.3s;
     background: #f9f3ee;
-    z-index: 1; /* Set a high z-index value */
+    z-index: 10; /* Set a high z-index value */
   }
   .w3-sidebar {
     top: 0px;
     z-index: 9999; /* Set a high z-index value */
   }
   .w3-sidebar.w3-show {
-  z-index: 9999; /* Set a higher z-index value than the header */
+  z-index: 10; /* Set a higher z-index value than the header */
 }
