@@ -2,7 +2,7 @@
   @media (min-width: 992px) {
    h2 {
     font-size: 32; /* Increase font size */
-    font-family: cursive, sans-serif;
+    line-height: 1;
    }
     #portfolio h2 {
       
