@@ -23,9 +23,9 @@
   }
   .w3-sidebar {
     top: 0px;
-    z-index: 0; 
+    z-index: 100; 
   }
   .w3-sidebar.w3-show {
-    z-index: 0;
+    z-index: 100;
   }
 }
