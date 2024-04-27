@@ -1,11 +1,10 @@
  /* Desktop view */
   @media (min-width: 992px) {
    h2 {
-    font-size: 32; /* Increase font size */
+    font-size: 32px; /* Increase font size */
     line-height: 1;
    }
     #portfolio h2 {
-      
       padding: 10px 0 0 20px;
     }
   }
