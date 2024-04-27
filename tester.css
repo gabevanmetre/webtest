@@ -2,6 +2,7 @@
   @media (min-width: 992px) {
     #portfolio h2 {
       font-size: 99; /* Increase font size */
+      padding-left: 108px;
     }
     .w3-rest {
       padding-left: 108px; /* Increase left padding */
