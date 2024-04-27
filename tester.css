@@ -1,7 +1,11 @@
  /* Desktop view */
   @media (min-width: 992px) {
+   h2 {
+    font-size: 32; /* Increase font size */
+    font-family: cursive, sans-serif;
+   }
     #portfolio h2 {
-      font-size: 32; /* Increase font size */
+      
       padding: 10px 0 0 20px;
     }
   }
